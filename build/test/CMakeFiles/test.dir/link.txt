@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/test.dir/test.cc.o  -o ../../bin/test   -L/home/SimpleThreadPool/lib  -Wl,-rpath,/home/SimpleThreadPool/lib ../../lib/libsimple_tp.so -lpthread 

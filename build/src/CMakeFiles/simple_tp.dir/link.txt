@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -g  -shared -Wl,-soname,libsimple_tp.so -o ../../lib/libsimple_tp.so CMakeFiles/simple_tp.dir/threadpool.cc.o   -L/home/SimpleThreadPool/lib 
